@@ -5,3 +5,4 @@
 ## Un blog de pandas
 *Porque los panditas son geniales *
 *Creado por un mini panda 
+*realizado desde linux y windows
