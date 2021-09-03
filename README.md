@@ -6,3 +6,4 @@
 *Porque los panditas son geniales *
 *Creado por un mini panda 
 *realizado desde linux y windows
+*Disponible para todas las edades
